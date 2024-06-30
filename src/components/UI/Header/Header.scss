@@ -1,0 +1,7 @@
+$rfs-breakpoint: 1440;
+@import "rfs/scss";
+
+.header {
+  color: rgb(77, 8, 255);
+  @include font-size(50px);
+}
